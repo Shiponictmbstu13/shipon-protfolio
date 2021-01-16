@@ -1,0 +1,135 @@
+body{
+    font-family: 'Roboto', sans-serif;   
+}
+h1
+{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+    color:navy;
+}
+li{
+    list-style: none;
+    float: left;  
+}
+li img{
+    width: 60%;
+}
+ul{
+    margin-left: 400px;
+}
+#menu-bar{
+    margin-left: 60%;
+    
+}
+.top-section{
+    margin-top: 2%;
+}
+
+#menu-bar li {
+    padding: 3%;
+    font-size: 18px;
+    font-weight: 600;
+}
+.name-color
+{
+   color: lightsalmon;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, rgb(52, 175, 41));
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+section
+{
+    height: 500px;
+    padding: 3%;
+}
+.half-width p{
+    margin-bottom: 40px;
+}
+.current-work
+{
+    height: 600px;
+    background-color: rgb(252, 247, 247);
+}
+.work-part
+{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+    
+}
+.work-part img
+{
+    width: 100%;
+    
+}
+.current-work h2{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.current-work h3
+{
+    font-size: 23px;
+}
+.work-part-image{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.contact-part{
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 68% 34%;
+    background-position: center;
+
+}
+.contact{
+   
+    width: 30%;
+    float: left;
+    margin-left: 14%;
+    padding-left: 3%;
+    
+   
+}
+#chat-button{
+    
+    margin-top: 240px;
+
+}
+#work-inquiry{
+    color: white;
+    margin-right: 60px;
+    margin-top: 180px;
+
+}
+#last-part{
+    color: gray;
+    text-align: center;
+    
+}
+#footer-mail{
+    text-align: center;
+    color: midnightblue;
+}
+
+
